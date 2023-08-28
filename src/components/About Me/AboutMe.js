@@ -25,7 +25,7 @@ const AboutMe = () => {
                     <div className={classes.contactLinks}>
                         <SocialLinks className={classes.links} />
                     </div>
-                    <a href={PersonalData.https://drive.google.com/file/d/1-4L0hhV7Fq2LzX0_PqLTXTN8rEy3juvo/view?usp=drivesdk}>
+                    <a href={https://drive.google.com/file/d/1-4L0hhV7Fq2LzX0_PqLTXTN8rEy3juvo/view?usp=drivesdk}>
                         <Button className={classes.resumeBtn}>See My Resume</Button>
                     </a>
                 </div>
