@@ -4,7 +4,7 @@ Hi, this is a creative professional multi page Portfolio Website Template built 
 # Installation and Setup Instructions
   Step 1 : Clone this repository with the Command -
   
-            git clone https://github.com/dinesh0kumar/Portfolio.git
+            git clone https://github.com/dinesh0kumar/react-portfolio.git
   
   Step 2 : cd Portfolio
   
